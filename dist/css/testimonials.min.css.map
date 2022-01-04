@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAC,CACZ,gBAAgB,CAAE,SAAS,CAC5B",
+    "sources": [
+        "../../src/components/testimonials/testimonials.scss"
+    ],
+    "names": [],
+    "file": "testimonials.min.css"
+}
